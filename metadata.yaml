@@ -1,0 +1,31 @@
+_repo: Renaissance-in-Italy-Volume-2--of-7-The-Revival-of-Learning_41924
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41924-h/images/cover.png
+creator:
+  author:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+description: ''
+gutenberg_issued: '2013-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humanism'
+- !lcc 'DG'
+- !lcsh 'Renaissance -- Italy'
+title: 'Renaissance in Italy, Volume 2 (of 7)
+
+  The Revival of Learning'
+url: http://www.gutenberg.org/ebooks/41924
